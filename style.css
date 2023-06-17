@@ -45,6 +45,7 @@ header h1 {
     right: 10px;
     animation: glow 2s ease-in-out infinite alternate;
     -webkit-animation: glow 2s ease-in-out infinite alternate;
+    margin: 2px;
 }
 
 .contact-info a {
