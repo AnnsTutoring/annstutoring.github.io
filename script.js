@@ -79,7 +79,9 @@ const csv = `"Timestamp","What is your name?","Please rate on a scale from 1 to 
 "2023/05/29 11:57:48 AM AST","Austin","5","Ann has been super awesome helping me out with some tougher math courses I am taking. Knows what she is talking about and is very helpful",""
 "2023/05/30 12:28:10 AM AST","A.D.","5","Great Coding Tutor.","No."
 "2023/06/06 7:08:08 PM AST","Faiqah","5","She has a lot of availability, which is really nice. She's very nice, understanding, and explains things well. ",""
-"2023/06/17 2:22:15 AM AST","Jon","5","Very helpful, 10/10",""`
+"2023/06/17 2:22:15 AM AST","Jon","5","Very helpful, 10/10",""
+"2023/06/25 2:27:25 PM AST","Vincenzo ","5","She is very Helpful and understanding, will show you multiple ways to find a solution. 
+She is a very good tutor. ",""`
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
 createTable(csv);
